@@ -1,10 +1,9 @@
 ******************************************
 
-** AdvComputerGraphics	(CS657/718)
-** Anna Fischer		(Spring 2018)
+** Computer Graphics
+** amimotoAnna		(Spring 2018)
 **
-** Project 1: Ray Casting
-** ReadME File
+** Ray-Casting ReadME File
 
 ******************************************
 
