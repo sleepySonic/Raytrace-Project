@@ -1,3 +1,11 @@
+// ------------------------------------------------------------ //
+// Fundamentals of Computer Graphics                		//
+//     Raytracing Simulation without OpenGL			//
+//	...implementing raytracing algorithms in C++		//
+// ------------                                                 //
+// amimotoAnna                                             	//
+// ------------------------------------------------------------ //
+
 #include <float.h>
 #include <stdlib.h>
 #include <stdio.h>
