@@ -1,7 +1,7 @@
 ******************************************
 
 ** Computer Graphics
-** amimotoAnna		(Spring 2018)
+** amimotoAnna | Spring 2018
 **
 ** Ray-Casting ReadME File
 
